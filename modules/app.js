@@ -8,4 +8,6 @@ tenemos permiso para acceder al código.*/
 
 let greet = require('./greet');
 greet();
+/*Con el módulo greet habilitado y teniendo un parámetro llamado greet 
+podemos observar el contenido mediante node app.js*/
 
